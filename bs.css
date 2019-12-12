@@ -1,4 +1,15 @@
+.fa-times-circle{
+  position: fixed;
+  top: 10px;
+  right: 45px;
+  font-size:36px;
+  cursor: pointer;
+  color: hsla(0,0%,100%,.5);
 
+}
+.fa-times-circle:hover {
+  color: hsla(0,0%,100%,2);
+}
 .filled,
 .outline {
   font-size: 1.5em;
