@@ -1,24 +1,15 @@
-Skip to content
-Search or jump to…
+.fa-times-circle{
+  position: fixed;
+  top: 10px;
+  right: 45px;
+  font-size:36px;
+  cursor: pointer;
+  color: hsla(0,0%,100%,.5);
 
-Pull requests
-Issues
-Marketplace
-Explore
-
-@Amershabou
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-0
-00FEC3/options-proxy
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-options-proxy/bs.css
-@MicahDShackelford MicahDShackelford Complete Proxy
-52320eb 17 hours ago
-9652 lines (8518 sloc)  182 KB
-
+}
+.fa-times-circle:hover {
+  color: hsla(0,0%,100%,2);
+}
 .filled,
 .outline {
   font-size: 1.5em;
